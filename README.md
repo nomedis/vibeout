@@ -20,6 +20,6 @@ This repository contains the python and streamlit code generated for the Springf
     - open 'http://localhost:8002/docs' in a browser
 - **front ent**
     - `cd streamlit_front`
-    - `stramlit run app.py --server.port 8003`
+    - `streamlit run app.py --server.port 8003`
     - open 'http://localhost:8003' in a browser
     
