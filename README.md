@@ -17,9 +17,11 @@ This repository contains the python and streamlit code generated for the Springf
 - **server**
     - `cd server`
     - `uvicorn main:app --host 0.0.0.0 --port 8002`
+        - change port as needed
     - open 'http://localhost:8002/docs' in a browser
 - **front ent**
     - `cd streamlit_front`
     - `streamlit run app.py --server.port 8003`
+        - change port as needed
     - open 'http://localhost:8003' in a browser
     
